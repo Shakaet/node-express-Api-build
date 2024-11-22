@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "phoneName": "iPhone 14 Pro",
+      "phoneDetails": "6.1-inch display, A16 Bionic chip, 48MP camera, iOS 16",
+      "brand": "Apple"
+    },
+    {
+      "id": 2,
+      "phoneName": "Samsung Galaxy S23 Ultra",
+      "phoneDetails": "6.8-inch display, Snapdragon 8 Gen 2, 200MP camera, Android 13",
+      "brand": "Samsung"
+    },
+    {
+      "id": 3,
+      "phoneName": "Google Pixel 8 Pro",
+      "phoneDetails": "6.7-inch display, Tensor G3 chip, 50MP camera, Android 14",
+      "brand": "Google"
+    },
+    {
+      "id": 4,
+      "phoneName": "OnePlus 11",
+      "phoneDetails": "6.7-inch display, Snapdragon 8 Gen 2, 50MP camera, Android 13",
+      "brand": "OnePlus"
+    },
+    {
+      "id": 5,
+      "phoneName": "Xiaomi 13 Pro",
+      "phoneDetails": "6.73-inch display, Snapdragon 8 Gen 2, 50MP camera, MIUI 14",
+      "brand": "Xiaomi"
+    }
+  ]
+  
